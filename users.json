@@ -1,0 +1,241 @@
+[{
+  "_id": {
+    "$oid": "6096386e5905ba2fd430671c"
+  },
+  "company": " HCL Ltd",
+  "Market_Cap": 7878.45,
+  "Current_Market_Price_of_stock": 44,
+  "StockPE": 90.18,
+  "Dividend_Yield": 1088.34,
+  "ROCE": 45.12,
+  "ROE": 11.23,
+  "Debt_to_equity": 56.44,
+  "EPS": 7822.213,
+  "Reserves": 21300.98,
+  "Debt": 1008.67,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609638725905ba2fd430671d"
+  },
+  "company": "POCKL HCL Ltd",
+  "Market_Cap": 7878.45,
+  "Current_Market_Price_of_stock": 44,
+  "StockPE": 90.18,
+  "Dividend_Yield": 1088.34,
+  "ROCE": 45.12,
+  "ROE": 11.23,
+  "Debt_to_equity": 56.44,
+  "EPS": 7822.213,
+  "Reserves": 21300.98,
+  "Debt": 1008.67,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609638765905ba2fd430671e"
+  },
+  "company": "POCKL Geartech Ltd",
+  "Market_Cap": 7878.45,
+  "Current_Market_Price_of_stock": 44,
+  "StockPE": 90.18,
+  "Dividend_Yield": 1088.34,
+  "ROCE": 45.12,
+  "ROE": 11.23,
+  "Debt_to_equity": 56.44,
+  "EPS": 7822.213,
+  "Reserves": 21300.98,
+  "Debt": 1008.67,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6096387a5905ba2fd430671f"
+  },
+  "company": "RACL Geartech Ltd",
+  "Market_Cap": 7878.45,
+  "Current_Market_Price_of_stock": 44,
+  "StockPE": 90.18,
+  "Dividend_Yield": 1088.34,
+  "ROCE": 45.12,
+  "ROE": 11.23,
+  "Debt_to_equity": 56.44,
+  "EPS": 7822.213,
+  "Reserves": 21300.98,
+  "Debt": 1008.67,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609638855905ba2fd4306720"
+  },
+  "company": "Vikram Thermo (India) Ltd",
+  "Market_Cap": 7878.45,
+  "Current_Market_Price_of_stock": 44,
+  "StockPE": 90.18,
+  "Dividend_Yield": 1088.34,
+  "ROCE": 45.12,
+  "ROE": 11.23,
+  "Debt_to_equity": 56.44,
+  "EPS": 7822.213,
+  "Reserves": 21300.98,
+  "Debt": 1008.67,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6096388d5905ba2fd4306721"
+  },
+  "company": "Shivalik Bimetal Controls Ltd",
+  "Market_Cap": 7878.45,
+  "Current_Market_Price_of_stock": 44,
+  "StockPE": 90.18,
+  "Dividend_Yield": 1088.34,
+  "ROCE": 45.12,
+  "ROE": 11.23,
+  "Debt_to_equity": 56.44,
+  "EPS": 7822.213,
+  "Reserves": 21300.98,
+  "Debt": 1008.67,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609638935905ba2fd4306722"
+  },
+  "company": "Poly Medicure Ltd",
+  "Market_Cap": 7878.45,
+  "Current_Market_Price_of_stock": 44,
+  "StockPE": 90.18,
+  "Dividend_Yield": 1088.34,
+  "ROCE": 45.12,
+  "ROE": 11.23,
+  "Debt_to_equity": 56.44,
+  "EPS": 7822.213,
+  "Reserves": 21300.98,
+  "Debt": 1008.67,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609638975905ba2fd4306723"
+  },
+  "company": "Acrysil Ltd",
+  "Market_Cap": 7878.45,
+  "Current_Market_Price_of_stock": 44,
+  "StockPE": 90.18,
+  "Dividend_Yield": 1088.34,
+  "ROCE": 45.12,
+  "ROE": 11.23,
+  "Debt_to_equity": 56.44,
+  "EPS": 7822.213,
+  "Reserves": 21300.98,
+  "Debt": 1008.67,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6096389b5905ba2fd4306724"
+  },
+  "company": "Alembic Pharmaceuticals Ltd",
+  "Market_Cap": 7878.45,
+  "Current_Market_Price_of_stock": 44,
+  "StockPE": 90.18,
+  "Dividend_Yield": 1088.34,
+  "ROCE": 45.12,
+  "ROE": 11.23,
+  "Debt_to_equity": 56.44,
+  "EPS": 7822.213,
+  "Reserves": 21300.98,
+  "Debt": 1008.67,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6096389f5905ba2fd4306725"
+  },
+  "company": "Marksans Pharma Ltd",
+  "Market_Cap": 7878.45,
+  "Current_Market_Price_of_stock": 44,
+  "StockPE": 90.18,
+  "Dividend_Yield": 1088.34,
+  "ROCE": 45.12,
+  "ROE": 11.23,
+  "Debt_to_equity": 56.44,
+  "EPS": 7822.213,
+  "Reserves": 21300.98,
+  "Debt": 1008.67,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609638a35905ba2fd4306726"
+  },
+  "company": "Pix Transmission Ltd",
+  "Market_Cap": 7878.45,
+  "Current_Market_Price_of_stock": 44,
+  "StockPE": 90.18,
+  "Dividend_Yield": 1088.34,
+  "ROCE": 45.12,
+  "ROE": 11.23,
+  "Debt_to_equity": 56.44,
+  "EPS": 7822.213,
+  "Reserves": 21300.98,
+  "Debt": 1008.67,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609638a75905ba2fd4306727"
+  },
+  "company": "Godawari Power & Ispat Ltd",
+  "Market_Cap": 7878.45,
+  "Current_Market_Price_of_stock": 44,
+  "StockPE": 90.18,
+  "Dividend_Yield": 1088.34,
+  "ROCE": 45.12,
+  "ROE": 11.23,
+  "Debt_to_equity": 56.44,
+  "EPS": 7822.213,
+  "Reserves": 21300.98,
+  "Debt": 1008.67,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609638ad5905ba2fd4306728"
+  },
+  "company": "Avanti Feeds Ltd",
+  "Market_Cap": 7878.45,
+  "Current_Market_Price_of_stock": 44,
+  "StockPE": 90.18,
+  "Dividend_Yield": 1088.34,
+  "ROCE": 45.12,
+  "ROE": 11.23,
+  "Debt_to_equity": 56.44,
+  "EPS": 7822.213,
+  "Reserves": 21300.98,
+  "Debt": 1008.67,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609638b55905ba2fd4306729"
+  },
+  "company": "NGL Fine Chem Ltd",
+  "Market_Cap": 123.45,
+  "Current_Market_Price_of_stock": 44,
+  "StockPE": 90.18,
+  "Dividend_Yield": 1088.34,
+  "ROCE": 45.12,
+  "ROE": 11.23,
+  "Debt_to_equity": 56.44,
+  "EPS": 7822.213,
+  "Reserves": 21300.98,
+  "Debt": 1008.67,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609638f3b1f38e2cbccbbcf4"
+  },
+  "company": "AAAAAA Fine Chem Ltd",
+  "Market_Cap": 123.45,
+  "Current_Market_Price_of_stock": 44,
+  "StockPE": 90.18,
+  "Dividend_Yield": 1088.34,
+  "ROCE": 45.12,
+  "ROE": 11.23,
+  "Debt_to_equity": 56.44,
+  "EPS": 7822.213,
+  "Reserves": 21300.98,
+  "Debt": 1008.67,
+  "__v": 0
+}]
