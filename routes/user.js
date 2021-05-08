@@ -2,21 +2,15 @@ const { User } = require('../model/user');
 const express = require('express');
 const fs = require('fs');
 const router = express.Router();
-router.get('/:company', async (req, res) => {
- try {
-    res.json(await User.findOne({ company: req.body.company }));
-  } catch (err) {
-    console.error('Company Not Exist', err.message);
-    next(err);
-  }
-});
-//  let user = await User.findOne({ company: req.body.company });
-// if (user) {
-//     return res.status(200).send();
-// } else {
-//     return res.status(400).send('Company Not exists!');
-// }
-// });
+router.get('/', async function(req, res, next) {
+    try {
+        res.json(await User.findOne());
+      } catch (err) {
+        console.error('Error in fetching Company', err.message);
+        next(err);
+      }
+    });
+
 router.post('/', async (req, res) => {
     
 
